@@ -28,3 +28,13 @@ Desktop.ini
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+instance/
+.venv/
+*.sqlite3
